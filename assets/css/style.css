@@ -535,7 +535,7 @@ header .navbar ul li a:hover {
 /* education section starts */
 .education {
   background: #e5ecfb;
-  min-height: 80vh;
+  min-height: 70vh;
 }
 .education .qoute {
   font-size: 1.5rem;
@@ -750,7 +750,7 @@ header .navbar ul li a:hover {
 /* researchpaper section starts */
 .researchpaper {
   background: #e5ecfb;
-  min-height: 80vh;
+  min-height: 50vh;
 }
 .researchpaper .qoute {
   font-size: 1.5rem;
